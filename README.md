@@ -1,6 +1,6 @@
 ![Header](https://github.com/cqxg/cqxg/blob/master/assets/ihar.gif)  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cqxg)](https://github.com/cqxg/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cqxg&include_all_commits)](https://github.com/cqxg/github-readme-stats)
 
 ### Languages and Tools
   ![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=HTML5&logoColor=F16625&color=000000)
