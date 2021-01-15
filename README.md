@@ -7,3 +7,4 @@
   ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=9371CB)
   ![NodeJS](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=Node.js&logoColor=6BBF47)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=4EB03F)
+![Custom badge](https://img.shields.io/endpoint?color=React&label=React&logo=React&logoColor=React&style=flat-square)
