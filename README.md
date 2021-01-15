@@ -1,5 +1,3 @@
-![Header](https://github.com/GooNext/goonext/blob/master/assets/glitch.jpg)
-
 ### Languages and Tools
   ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=F16625)
   ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=2A65F0)
